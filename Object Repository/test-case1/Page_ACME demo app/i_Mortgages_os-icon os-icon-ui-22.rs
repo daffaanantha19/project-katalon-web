@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mortgages_os-icon os-icon-ui-22</name>
+   <tag></tag>
+   <elementGuidId>082809bb-ee22-44a2-956b-ec7678b2b98a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.os-icon.os-icon-ui-22</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3bc3ff36-6518-4b80-a38e-2ae477caa714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>os-icon os-icon-ui-22</value>
+      <webElementGuid>c03f863d-6902-451e-91ce-462250d51ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menu-position-side menu-side-left full-screen&quot;]/div[@class=&quot;all-wrapper solid-bg-all&quot;]/div[@class=&quot;layout-w&quot;]/div[@class=&quot;content-w&quot;]/div[@class=&quot;content-i&quot;]/div[@class=&quot;content-box&quot;]/div[@class=&quot;element-wrapper compact pt-4&quot;]/div[@class=&quot;element-actions&quot;]/a[@class=&quot;btn btn-primary btn-sm&quot;]/i[@class=&quot;os-icon os-icon-ui-22&quot;]</value>
+      <webElementGuid>2a182215-aef1-444c-920e-05c264ddd392</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>67fa676d-6ae1-4193-a5db-2233fd190f2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
